@@ -1,0 +1,6 @@
+utils\ScreenshotTaker.class
+browser\BrowserFactory.class
+pages\HomePage.class
+pages\SearchPage.class
+utils\ExcelFileReader.class
+utils\PropertiesFileReader.class

@@ -1,0 +1,20 @@
+{
+  "capabilities": [
+    {
+      "browserName": "MicrosoftEdge",
+      "platform": "WIN10",
+      "maxInstances": 5
+    },
+    {
+      "browserName": "firefox",
+      "platform": "WIN10",
+      "maxInstances": 5
+    },
+    {
+      "browserName": "chrome",
+      "platform": "WIN10",
+      "maxInstances": 5
+    }
+  ],
+  "hub": "http://192.168.1.13:4444/grid/register/"
+}
